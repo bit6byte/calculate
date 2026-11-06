@@ -1,2 +1,1 @@
-# calculate
-This is a Offline-First Calculator App 
+| **Medium** | Improve calculator semantics | Better `%`/operator handling, parentheses support UX, input validation, and optional scientific mode/history of expressions. |
